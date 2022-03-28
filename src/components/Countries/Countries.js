@@ -12,7 +12,7 @@ const Countries = () => {
     }, [])
     return (
         <div>
-            <h2>Hello From Countries(React Application)</h2>
+            <h2>Hello From Countries(React Application - Rest Countries API)</h2>
             {/* {
                 countries.map(country => console.log(country))
             } */}
